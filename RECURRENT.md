@@ -39,10 +39,10 @@ at roughly 254 tokens; beyond that the state is smaller.
 
 | Context T | Full forward ms | Full extra MB | Recurrent ms | Recurrent extra MB |
 | --- | --- | --- | --- | --- |
-| 256 | TBD | TBD | TBD | TBD |
-| 512 | TBD | TBD | TBD | TBD |
-| 1024 | TBD | TBD | TBD | TBD |
-| 2048 | TBD | TBD | TBD | TBD |
+| 256 | 179.5 | 224 | 33.2 (includes GPU warm-up) | 33 |
+| 512 | 192.1 | 432 | 19.8 | 33 |
+| 1024 | 495.0 | 865 | 12.7 | 33 |
+| 2048 | 1542.2 | 1730 | 12.9 | 33 |
 
 "Full forward" is what `BDH.generate` does today (no cache). A fair comparison with a
 token cache is not measured here.
@@ -54,3 +54,8 @@ token cache is not measured here.
 - The state is kept in fp32; lower precision was not tested.
 - Dropout is off (evaluation mode).
 - Verified on small random models and one real model forward pass; not yet measured against trained-weight perplexity.
+
+The recurrent state itself is 192 MB (fp32) at every context length and is not included in
+the "extra MB" columns. Single run per cell; the first recurrent row includes GPU warm-up.
+At T=256 the recurrent total (192 + 33 MB) is about equal to the full forward (224 MB), as predicted;
+at longer contexts the full forward keeps growing and the recurrent version does not.
