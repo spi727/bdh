@@ -1,0 +1,126 @@
+===== transformer | sample seed 1 =====
+ROMEO:
+Be womest this Hespeak
+Wences to that tiely doe! Bother all-come I
+Are a berreateds? I leep you no man
+All be trear the not? Aur us bewere I speak flow.
+What See pack my no me. I have inswer:
+Which you heave madson the are ding; and hand my deeat
+I to and a malelly are tower.
+
+MANGEO:
+Arewell, for A
+
+===== transformer | sample seed 2 =====
+ROMEO:
+A percious to the pofirter
+now no gove so. You the dame make, I king bring,
+In to thou be to party: I
+fouch same of the seemans.
+I should sten, if the ear mult.
+
+FRIAR IAR CALANUS:
+I is the clepear this speak shall me.
+
+KING EDWARD, I mungue!
+O, mast heet thee jet beor a way of too ind withe dal
+The
+
+===== transformer | sample seed 3 =====
+ROMEO:
+He heart tak uppees of should it strave.
+
+WARWICK:
+That the I weet things I have the was duke muck?
+
+BUCKINGHAM:
+Good mount of Our do thee name leve.
+
+KING EDWARD IV:
+And Lordieng hear great his do king thy fullie-me?
+
+AUFIDIA:
+Out I chafter is the merroun o't.
+Gook, find pear part Edwerent.
+Burrean
+
+===== mamba | sample seed 1 =====
+ROMEO:
+Be so, sir, in Hestily
+Were a power I have. For myself a lover,
+To say 'This same slack together
+A party in the nay  or nine,
+That knows with my heart in the sea period
+And leave his mind to see the ground,
+I'ld have filed dismal hangman:
+
+VIRGILIA:
+Ay, my lord:
+
+KING HENRY VI:
+Farewell, thou, friar
+
+===== mamba | sample seed 2 =====
+ROMEO:
+A personally, that have been so;
+Thou back'st to Breathe the cries of the part-carrion.
+O poor father for his matter, and I am in all?
+
+FRIAR LAURENCE:
+O God, then, Montague, this business is the duke
+break of day; O love is but by, and not be demand
+To the merciful of a way of reason!
+For my part i
+
+===== mamba | sample seed 3 =====
+ROMEO:
+If you call me all the shoulder to the air;
+The consulships of France.
+
+CORIOLANUS:
+I speak of more:
+The king is bereft, to shapes me with such less
+The steely but o'erweigh our own oear straight
+A grave by their worms: he should they last were the
+common fortune of a knot, if they not prove
+But loo
+
+===== bdh | sample seed 1 =====
+ROMEO:
+By while be some save steal as one are yet.
+For must I have confess of a borrow bosom,
+Stand not your company to a gallong;
+Were upon where with his sentence we will?
+
+LARTIUS:
+I have instruct you, that your made thee should be;
+There's my treaar with a received in a vow.
+
+Nurse:
+How not thou, for A
+
+===== bdh | sample seed 2 =====
+ROMEO:
+A percept, to the poor revenge, knowledge.
+
+DUKE VINCENTIO:
+How can you thrice to the king of a death
+To children men and even in the seension,
+He that lawful tarty country's tongue.
+
+KING RICHARD III:
+Do, and desperate fellow?
+
+KING RICHARD III:
+No, my good for thy observe more to die:
+Provost, Car
+
+===== bdh | sample seed 3 =====
+ROMEO:
+He hath a man intent, Hortensio to the air more
+consuls the sea, the king rather with such post
+In all the fee and had the goodness of the name:
+Which if thou shalt that sLades went one your honour suppose
+And him-brother that my life is not speak,
+With usurp'd in my charge the father lave,
+What bee

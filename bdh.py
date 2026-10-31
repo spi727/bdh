@@ -16,6 +16,7 @@ class BDHConfig:
     n_head: int = 4
     mlp_internal_dim_multiplier: int = 128
     vocab_size: int = 256
+    
 
 
 def get_freqs(n, theta, dtype):
