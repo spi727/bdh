@@ -76,3 +76,4 @@ Trained weights (`*.pt`) are not committed.
 - Kosowski et al., The Dragon Hatchling, arXiv:2509.26507 (2025); code: https://github.com/pathwaycom/bdh
 - Gu and Dao, Mamba, arXiv:2312.00752 (2023)
 - Chen et al., Training Deep Nets with Sublinear Memory Cost, arXiv:1604.06174 (2016)
+| `ask.py` | Type a prompt and compare continuations from all three trained models (needs the *_seed1337.pt weights) |
