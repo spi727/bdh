@@ -1,0 +1,23 @@
+
+=== bdh-ckpt: 25.30M parameters ===
+step 0/1000 train loss 5.666
+step 50/1000 train loss 3.112
+step 100/1000 train loss 2.640
+step 150/1000 train loss 2.561
+step 200/1000 train loss 2.522
+step 250/1000 train loss 2.431
+step 300/1000 train loss 2.265
+step 350/1000 train loss 2.091
+step 400/1000 train loss 1.960
+step 450/1000 train loss 1.860
+step 500/1000 train loss 1.916
+step 550/1000 train loss 1.641
+step 600/1000 train loss 1.571
+step 650/1000 train loss 1.502
+step 700/1000 train loss 1.549
+step 750/1000 train loss 1.542
+step 800/1000 train loss 1.413
+step 850/1000 train loss 1.478
+step 900/1000 train loss 1.448
+step 950/1000 train loss 1.482
+RESULT (name, M params, val loss, val bpc, ms/step, peak MB): ['bdh-ckpt', 0.0003, 1000, 1337, 512, '25.30', '1.636', '2.360', '578', '3543', '579', '1485']

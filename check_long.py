@@ -11,7 +11,7 @@ T, NSEQ = 2048, 6
 C.BLOCK_SIZE = T                                         # make get_batch return T-byte slices
 dev = C.device
 model = bdh.BDH(bdh.BDHConfig()).to(dev)
-sd = torch.load("bdh_seed1337.pt", map_location=dev)
+sd = torch.load(os.environ.get("WEIGHTS", "bdh_seed1337.pt"), map_location=dev)
 model.load_state_dict({k.replace("_orig_mod.", ""): v for k, v in sd.items()})
 model.eval()
 
