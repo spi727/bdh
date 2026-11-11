@@ -1,4 +1,4 @@
-# BDH: memory-efficient training and recurrent inference
+# BDH vs Transformer vs Mamba: benchmarking, memory-efficient training and recurrent inference
 
 Machine Learning course project · K Praveen Sagar (CS26M1002) · M.Tech CSE (Data Science and AI), IIITDM Kancheepuram
 
