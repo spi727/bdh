@@ -1,3 +1,9 @@
+> **Fork by K Praveen Sagar ([@spi727](https://github.com/spi727)), Machine Learning course project, IIITDM Kancheepuram.**
+> This branch adds an exact recurrent (Hebbian synapse state) inference mode for BDH:
+> `bdh_recurrent.py`, `test_recurrent.py`, `bench_recurrent.py`; details and results in [RECURRENT.md](RECURRENT.md).
+> Full experiments and report: branch [`experiments`](https://github.com/spi727/bdh/tree/experiments).
+> The rest of this README is the original from [pathwaycom/bdh](https://github.com/pathwaycom/bdh).
+
 # Dragon Hatchling (BDH): Post-Transformer AI architecture
 
 **BDH (Dragon Hatchling)** is a **Post-Transformer AI architecture** developed by [Pathway](https://pathway.com/), a frontier AI lab. The BDH architecture makes reasoning, memory and learning part of the model itself. The [BDH explainer](https://pathway.com/research/bdh-explainer/conclusion) describes the architecture and its broader research direction.
